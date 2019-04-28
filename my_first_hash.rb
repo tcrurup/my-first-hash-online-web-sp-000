@@ -1,8 +1,8 @@
 def my_hash
   my_details = {
-    "name" => "Tony Rurup"
-    "height" => "6'5\""
-    "weight_lbs" => 215
+    "name" => "Tony Rurup",
+    "height" => "6'5\"",
+    "weight_lbs" => 215,
   }
 end
 
@@ -12,9 +12,9 @@ def shipping_manifest
   # fill that hash with key/value pairs that describe the following information: 
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
   the_manifest = {
-    "whale_bone_corsets" => 5
-    "porcelain_vases" => 2
-    "oil_paintings" => 3
+    "whale_bone_corsets" => 5,
+    "porcelain_vases" => 2,
+    "oil_paintings" => 3,
   }
 end
 
